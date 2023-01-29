@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url(webbackground.jpg);
+    background-image: url(background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;
